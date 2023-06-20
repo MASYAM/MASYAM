@@ -18,4 +18,4 @@
 
 ### 📈 My Git Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masyam&layout=compact&hide=jupyter%20notebook&exclude_repo=&hide_border=false&theme=tokyonight&ine_height50)](https://github.com/masyam?tab=repositories)![](https://github-readme-stats.vercel.app/api?username=masyam&show_icons=true&theme=tokyonight)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masyam&layout=compact&hide=jupyter%20notebook&exclude_repo=&hide_border=false&theme=tokyonight&ine_height50)](https://github.com/masyam?tab=repositories)![](https://github-readme-stats.vercel.app/api?username=masyam&show_icons=true&theme=tokyonight)-->
